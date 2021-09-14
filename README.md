@@ -1,4 +1,8 @@
-# google-clone
+# Hello World !
+
+### This is the 4th homework from the FrontEnd course within the Principal33 internship.
+
+### The homework is to clone (like in 1st homework) the www.google.com website UI using VueJS.
 
 ## Project setup
 ```
