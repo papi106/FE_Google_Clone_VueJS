@@ -6,10 +6,10 @@
           <li><a href="#" class="navlink">Imagini</a></li>
         </ul>
         <div class="apps">
-          <img src="./images/apps.svg" />
+          <img src="/src/assets/images/apps.svg" />
         </div>
         <div class="me" >
-          <img src="/images/me.png" style="border-radius: 50%;"/>
+          <img src="/src/assets/images/me.png" style="border-radius: 50%;"/>
         </div>
       </nav>
     </header>
@@ -19,5 +19,5 @@
 </script>
 
 <style>
-@import '/src/assets/styles/main.css';
+@import '/src/assets/styles/header.css';
 </style>

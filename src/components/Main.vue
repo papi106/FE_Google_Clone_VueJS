@@ -1,12 +1,12 @@
 <template>
     <main class="main">
-      <img src="/images/google-logo.png" class="logo" />
+      <img src="/src/assets/images/google-logo.png" class="logo" />
 
       <div class="search">
-        <img src="images/search.svg" class="icon-search"/>
+        <img src="/src/assets/images/search.svg" class="icon-search"/>
         <input type="search" class="search-input" />
-        <img src="/images/keyboard.png" class="icon-keyboard" />
-        <img src="/images/mic.svg" class="icon-mic"/>
+        <img src="/src/assets/images/keyboard.png" class="icon-keyboard" />
+        <img src="/src/assets/images/mic.svg" class="icon-mic"/>
       </div>
 
       <div class="main-buttons">
