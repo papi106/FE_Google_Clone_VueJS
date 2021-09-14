@@ -25,5 +25,5 @@
 </script>
 
 <style>
-@import '/src/assets/styles/footer.css';
+@import '../assets/styles/footer.css';
 </style>

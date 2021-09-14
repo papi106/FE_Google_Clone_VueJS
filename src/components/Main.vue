@@ -1,12 +1,12 @@
 <template>
     <main class="main">
-      <img src="/src/assets/images/google-logo.png" class="logo" />
+      <img src="../assets/images/google-logo.png" class="logo" />
 
       <div class="search">
-        <img src="/src/assets/images/search.svg" class="icon-search"/>
+        <img src="../assets/images/search.svg" class="icon-search"/>
         <input type="search" class="search-input" />
-        <img src="/src/assets/images/keyboard.png" class="icon-keyboard" />
-        <img src="/src/assets/images/mic.svg" class="icon-mic"/>
+        <img src="../assets/images/keyboard.png" class="icon-keyboard" />
+        <img src="../assets/images/mic.svg" class="icon-mic"/>
       </div>
 
       <div class="main-buttons">
@@ -30,5 +30,5 @@
 </script>
 
 <style>
-@import '/src/assets/styles/main.css';
+@import '../assets/styles/main.css';
 </style>
