@@ -27,18 +27,12 @@ export default {
   box-sizing: border-box;
 }
 
-html,
-body {
-  height: 100%;
-}
-
 html {
   font-size: 65%;
 }
 
 body {
-  display: grid;
-  grid-template-rows: auto 3fr 1fr;
+  overflow: hidden;
   font-family: Arial, sans-serif;
   font-size: 1.6rem;
 }
